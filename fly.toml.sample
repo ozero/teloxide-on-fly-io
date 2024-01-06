@@ -1,0 +1,5 @@
+app = "PUT-YOUR-FLY-IO-APP-NAME-HERE"
+kill_signal = "SIGINT"
+kill_timeout = 5
+processes = []
+
